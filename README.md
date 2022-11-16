@@ -1,4 +1,4 @@
-Hey There!
+Hey there!
 
 I'm currently a Front End Engineer for AWS but I love designing and creating nice looking experiences.
 
